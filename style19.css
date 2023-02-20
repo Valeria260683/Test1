@@ -1,0 +1,110 @@
+body {  
+margin-left: auto;
+margin-right: auto;    
+max-width: 70%; 
+background-image: url("https://phonoteka.org/uploads/posts/2022-02/1643919404_14-phonoteka-org-p-neitralnii-rozovii-fon-30.jpg"); 
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}  
+h1 { 
+font-size: 32px; 
+color: hwb(357 2% 4% / 0.671); 
+}  
+h2 {
+color: #a52a2a;
+} 
+h3 {
+color: hwb(226 3% 10%);
+}
+h1,h2,h3 {
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 1.5em;
+margin-bottom: 0.5em; 
+} 
+.img_header {
+width: 300px; 
+height: 300px; 
+float: right; 
+margin-right: 600px; 
+padding-top: 60px; 
+padding-left: 20px;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}   
+table,th,td { 
+border: 1px solid black; 
+} 
+caption{ 
+background-color: gray;
+} 
+figcaption {
+font-style: italic; 
+color: darkgreen; 
+text-align: center;  
+} 
+figure {  
+padding-left: 10px;     
+float: right; 
+margin-right: 700px; 
+margin-top: 30px;  
+} 
+.img_float_1 {
+float: right; 
+padding-left: 15px; 
+margin-right: 600px; 
+margin-top: 20px; 
+} 
+.img_float_2 {
+float: right; 
+padding-left: 15px;
+margin-right: 600px; 
+margin-top: 20px; 
+}  
+.img_float_3 {
+float: right; 
+padding-left: 15px;
+margin-right: 600px; 
+margin-top: 20px;  
+}  
+.img_float_4 {
+float: right; 
+padding-left: 15px;
+margin-right: 600px; 
+margin-top: 20px;  
+}   
+.img_float_5 {
+float: right; 
+padding-left: 15px;
+margin-right: 600px; 
+margin-top: 20px;  
+}  
+.img_float_6 {
+float: right; 
+padding-left: 15px;
+margin-right: 600px; 
+margin-top: 20px;  
+}  
+.img_float_7 {
+float: right; 
+padding-left: 15px;
+margin-right: 600px; 
+margin-top: 20px;  
+} 
+.img_float_8 {
+float: right; 
+padding-left: 15px;
+margin-right: 600px; 
+margin-top: 40px;  
+}  
+.img_float_9 {
+float: right; 
+padding-left: 15px;
+margin-right: 400px; 
+margin-top: 40px;  
+}          
+    
